@@ -4,7 +4,7 @@ title: About
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg4.jpg
+  url: /images/bg2.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
@@ -13,16 +13,189 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >+
-      # Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: >
+      ## About Me
 
+
+      I'm Robert Gorman, a data analyst and system administrator with a passion for transforming complex data into actionable insights and building reliable infrastructure that empowers users. With over 5 years of experience supporting 7,000+ users in an academic research environment, I bring a unique combination of technical expertise and business analytics acumen.
+
+
+      ### Professional Background
+
+
+      Currently serving as a User Services Support Specialist III at Rutgers University-Camden, where I've developed deep expertise in:
+
+
+      - **Data Analytics & BI**: Python, R, SQL, Tableau, Power BI
+
+      - **System Administration**: Windows Server, Active Directory, PowerShell automation
+
+      - **Cloud Infrastructure**: AWS (Certified Cloud Practitioner), Google Cloud Platform
+
+      - **Database Management**: MySQL, PostgreSQL, MS SQL Server, Salesforce NPSP
+
+
+      ### Education
+
+
+      **M.S. in Business Analytics** - *Concentration in FinTech*  
+
+      Rutgers University, Camden, NJ (2023-2025)
+
+
+      Graduate research focused on developing ETL pipelines, building predictive models, and creating interactive business intelligence dashboards.
+
+
+      **B.S. in Business Management / Computer Science**  
+
+      Rutgers University, Camden, NJ (2016-2021)
+
+
+      ### Certifications
+
+
+      - **AWS Certified Cloud Practitioner** - Amazon Web Services
+
+      - Currently pursuing additional cloud and data analytics certifications
+
+
+      ### What I'm Looking For
+
+
+      I'm actively seeking opportunities in:
+
+
+      - **Healthcare Data Analytics**: Applying analytical expertise to improve patient outcomes and operational efficiency
+
+      - **System Administration**: Supporting enterprise IT infrastructure in healthcare environments
+
+      - **Data Engineering**: Building robust data pipelines and analytics platforms
+
+
+      I'm particularly interested in organizations like Children's Hospital of Philadelphia (CHOP) where I can contribute to meaningful healthcare missions while growing my technical skills.
+
+
+      ### Technical Skills
+
+
+      **Programming & Analytics**
+
+      - Python (Pandas, NumPy, Scikit-learn)
+
+      - R (Tidyverse, Shiny, ggplot2)
+
+      - SQL (MySQL, PostgreSQL, MS SQL Server)
+
+      - JavaScript, PowerShell, Bash
+
+      - Statistical Analysis & Machine Learning
+
+
+      **Business Intelligence**
+
+      - Tableau, Power BI
+
+      - R-Shiny Dashboard Development
+
+      - SQL Server Reporting Services (SSRS)
+
+      - Data Visualization Best Practices
+
+
+      **Infrastructure & Cloud**
+
+      - Windows Server Administration
+
+      - Active Directory Domain Services
+
+      - AWS Cloud Services
+
+      - Google Cloud Platform
+
+      - PowerShell Automation
+
+      - Virtualization (KVM, VMware)
+
+
+      **Database & Data Management**
+
+      - Relational Database Design
+
+      - ETL Pipeline Development
+
+      - Data Warehousing
+
+      - Salesforce (NPSP)
+
+      - Query Optimization
+
+
+      ### Projects & Experience
+
+
+      Beyond my day-to-day responsibilities, I'm constantly building hands-on projects to expand my skills:
+
+
+      - **Active Directory Lab**: Complete Windows Server 2022 environment for enterprise infrastructure practice
+
+      - **Machine Learning Applications**: Predictive models for customer analytics and business insights
+
+      - **Data Visualization Dashboards**: Interactive Tableau and R-Shiny applications
+
+      - **Salesforce NPSP**: Nonprofit CRM implementation for healthcare fundraising
+
+
+      ### Location & Availability
+
+
+      **Based in**: South Jersey / Philadelphia Area  
+
+      **Open to**: Remote opportunities, hybrid roles, on-site positions in the greater Philadelphia region  
+
+      **Work Authorization**: U.S. Citizen | Dual U.S.-Italy Citizenship
+
+
+      ### Interests & Personal
+
+
+      When I'm not working with data or servers, you'll find me:
+
+
+      - 📊 Following Philadelphia sports (Eagles, Flyers, Sixers, Phillies, Union)
+
+      - 🏈 Managing fantasy football and hockey leagues
+
+      - 🏠 Tinkering with home automation projects
+
+      - 📈 Analyzing sports statistics and building predictive models
+
+
+      ### Let's Connect
+
+
+      I'm always interested in discussing:
+
+
+      - Healthcare data analytics opportunities
+
+      - IT infrastructure in clinical settings
+
+      - Data-driven decision making
+
+      - Career growth in healthcare technology
+
+
+      **Email**: rbtgorman@gmail.com  
+
+      **Phone**: (856) 993-6601  
+
+      **LinkedIn**: [linkedin.com/in/robert-gorman](https://linkedin.com/in/robert-gorman)  
+
+      **GitHub**: [github.com/rbtgorman](https://github.com/rbtgorman)
     media:
       type: ImageBlock
-      url: /images/about.jpg
-      altText: Hero image
+      url: /images/about-me.jpg
+      altText: Robert Gorman
     styles:
       self:
         height: auto
@@ -34,323 +207,10 @@ sections:
           - mr-0
         padding:
           - pt-16
-          - pb-12
+          - pb-36
           - pl-4
           - pr-4
-        textAlign: left
-    type: HeroSection
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        borderWidth: 1
-        borderStyle: solid
-  - type: MediaGallerySection
-    colors: colors-f
-    subtitle: 'I worked with these folks:'
-    images:
-      - type: ImageBlock
-        url: /images/logo1.svg
-        altText: Logo one
-        caption: Logo one
-      - type: ImageBlock
-        url: /images/logo2.svg
-        altText: Logo two
-        caption: Logo two
-      - type: ImageBlock
-        url: /images/logo3.svg
-        altText: Logo three
-        caption: Logo three
-      - type: ImageBlock
-        url: /images/logo4.svg
-        altText: Logo four
-        caption: Logo four
-      - type: ImageBlock
-        url: /images/logo5.svg
-        altText: Logo five
-        caption: Logo five
-    spacing: 3
-    columns: 5
-    aspectRatio: auto
-    showCaption: false
-    enableHover: false
-    styles:
-      self:
-        width: wide
-        height: auto
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        textAlign: left
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        borderWidth: 1
-        borderStyle: solid
-  - type: FeaturedItemsSection
-    subtitle: 'You can find me here:'
-    colors: colors-f
-    items:
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: GitHub
-            url: 'https://github.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Twitter
-            url: 'https://twitter.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: LinkedIn
-            url: 'https://www.linkedin.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: CodePen
-            url: 'https://codepen.io/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Discord
-            url: 'https://discord.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Instagram
-            url: 'https://www.instagram.com/'
-        styles:
-          self:
-            textAlign: left
-    columns: 3
-    spacingX: 120
-    spacingY: 16
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        borderWidth: 1
-        borderStyle: solid
-  - type: LabelsSection
-    colors: colors-f
-    subtitle: 'Skills:'
-    items:
-      - type: Label
-        label: 'WEB 1, 2, 3'
-      - type: Label
-        label: React
-      - type: Label
-        label: Microsoft Office
-      - type: Label
-        label: Next.js
-      - type: Label
-        label: Netlify
-      - type: Label
-        label: Pancakes
-      - type: Label
-        label: C++
-      - type: Label
-        label: Swift
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        borderWidth: 1
-        borderStyle: solid
-  - type: TextSection
-    variant: variant-a
-    subtitle: 'Contact:'
-    colors: colors-f
-    text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        borderWidth: 1
-        borderStyle: solid
-  - type: FeaturedItemsSection
-    colors: colors-f
-    items:
-      - type: FeaturedItem
-        subtitle: 'Experience:'
-        text: |-
-          **Current**
-
-          * freelance @freelance.me
-
-          **2018-2021**
-
-          * fullstack at this startup
-
-          **2015**
-
-          * senior front-end at this place
-
-          **2013**
-
-          * intern developer at a big company
-
-          **2011**
-
-          * flipping burgers
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        subtitle: 'Education:'
-        text: |-
-          **2015-2018**
-
-          * ba computer sciense at a semi fancy school
-
-          **2014**
-
-          * react certificate somewhere
-
-          **2011**
-
-          * my highschool
-        styles:
-          self:
-            textAlign: left
-    columns: 2
-    spacingX: 60
-    spacingY: 60
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        textAlign: left
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        borderWidth: 1
-        borderStyle: solid
-  - type: ContactSection
-    backgroundSize: full
-    title: "Let’s talk... \U0001F4AC"
-    colors: colors-f
-    form:
-      type: FormBlock
-      elementId: sign-up-form
-      fields:
-        - name: firstName
-          label: First Name
-          hideLabel: true
-          placeholder: First Name
-          isRequired: true
-          width: 1/2
-          type: TextFormControl
-        - name: lastName
-          label: Last Name
-          hideLabel: true
-          placeholder: Last Name
-          isRequired: false
-          width: 1/2
-          type: TextFormControl
-        - name: email
-          label: Email
-          hideLabel: true
-          placeholder: Email
-          isRequired: true
-          width: full
-          type: EmailFormControl
-        - name: message
-          label: Message
-          hideLabel: true
-          placeholder: Tell me about your project
-          isRequired: true
-          width: full
-          type: TextareaFormControl
-        - name: updatesConsent
-          label: Sign me up to recieve my words
-          isRequired: false
-          width: full
-          type: CheckboxFormControl
-      submitLabel: "Submit \U0001F680"
-      styles:
-        self:
-          textAlign: center
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-4
-          - mr-4
-        padding:
-          - pt-12
-          - pb-12
-          - pr-4
-          - pl-4
         flexDirection: row
         textAlign: left
+    type: TextSection
 ---
