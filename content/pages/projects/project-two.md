@@ -1,29 +1,113 @@
 ---
 type: ProjectLayout
-title: Another cool project
+title: Customer Churn Prediction & Analytics Platform
 colors: colors-a
-date: '2021-12-20'
-client: Awesome client
+date: '2024-05-20'
+client: Machine Learning Application Course
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably because I worked with an entire team :) but they definitely followed my lead most of the time.
+  End-to-end machine learning application analyzing 10,000+ customer transactions to identify spending patterns and predict customer churn. Built complete ETL pipelines and predictive models using Python, Pandas, and advanced ML algorithms.
 featuredImage:
   type: ImageBlock
-  url: /images/bg2.jpg
-  altText: Project thumbnail image
+  url: /images/project-churn.jpg
+  altText: Customer Churn Prediction Platform
 media:
   type: ImageBlock
-  url: /images/bg2.jpg
-  altText: Project image
+  url: /images/project-churn.jpg
+  altText: Machine learning analytics dashboard
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+## Project Overview
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+Developed a comprehensive machine learning application to analyze customer behavior and predict churn risk. This end-to-end solution processes large transaction datasets, extracts meaningful patterns, and provides actionable insights for customer retention strategies.
 
-> “Everybody should learn to program a computer, because it teaches you how to think.”
+### Key Technologies
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+- **Python**: Core development language
+- **Pandas & NumPy**: Data manipulation and numerical analysis
+- **Scikit-learn**: Machine learning model implementation
+- **ETL Pipelines**: Custom data extraction and transformation workflows
+- **Predictive Modeling**: Decision trees and logistic regression
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
+## Technical Architecture
 
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
+### ETL Pipeline Development
+
+Built robust data pipelines to handle the complete data lifecycle:
+
+**Extraction Layer**
+- Automated data ingestion from multiple transaction sources
+- Validation and quality checks at ingestion
+- Error handling and logging mechanisms
+
+**Transformation Layer**
+- Feature engineering from raw transaction data
+- Customer behavior aggregation and segmentation
+- Time-series analysis of spending patterns
+- Data normalization and standardization
+
+**Loading Layer**
+- Structured data storage for model training
+- Efficient data access patterns for real-time predictions
+
+### Machine Learning Implementation
+
+**Model Development**
+- **Decision Trees**: Interpretable models for identifying churn factors
+- **Logistic Regression**: Probability-based churn prediction
+- **Feature Importance Analysis**: Identified key drivers of customer churn
+- **Model Optimization**: Hyperparameter tuning and cross-validation
+
+**Pattern Analysis**
+- Spending pattern identification across customer segments
+- Seasonal and temporal trend analysis
+- Customer lifetime value prediction
+- Risk scoring for targeted retention efforts
+
+## Key Features
+
+### Churn Prediction
+- Accurate prediction of customers likely to churn
+- Probability scores for prioritized intervention
+- Real-time scoring capability for new customer data
+
+### Customer Analytics
+- Comprehensive spending pattern analysis
+- Customer segmentation and profiling
+- Behavioral trend identification
+- Transaction frequency and volume metrics
+
+### Business Intelligence
+- Actionable insights for retention strategies
+- ROI analysis for intervention programs
+- Customer value optimization recommendations
+
+## Results & Impact
+
+- Successfully analyzed 10,000+ customer transactions
+- Developed accurate churn prediction models with strong performance metrics
+- Identified key behavioral indicators of customer churn risk
+- Created reusable ETL framework for ongoing analytics
+
+## Technical Highlights
+
+- **Scalable Architecture**: Designed to handle growing data volumes
+- **Production-Ready Code**: Clean, documented, and maintainable
+- **Efficient Processing**: Optimized for performance with large datasets
+- **Flexible Pipeline**: Easily adaptable to different data sources
+
+## Skills Demonstrated
+
+- End-to-end ML application development
+- ETL pipeline architecture and implementation
+- Predictive modeling and statistical analysis
+- Feature engineering and data preprocessing
+- Python programming and data science libraries
+- Business problem solving with data
+
+## GitHub Repository
+
+[View Project on GitHub](https://github.com/rbtgorman/MachineLearning-Application_Course)
+
+---
+
+*This project showcases my ability to build complete data analytics solutions—from raw data ingestion through actionable business insights. These skills are directly applicable to healthcare analytics, patient retention analysis, and operational optimization.*
