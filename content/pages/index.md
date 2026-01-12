@@ -14,12 +14,13 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+      Data Analyst & System Administrator transforming complex datasets into 
+      actionable insights and building reliable infrastructure.
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      AWS Certified Cloud Practitioner with M.S. in Business Analytics and 5+ years 
+      supporting 7,000+ users in enterprise environments. Skilled in Python, SQL, 
+      PowerShell automation, and cloud infrastructure. Currently seeking opportunities 
+      in healthcare data analytics and IT infrastructure.
     styles:
       self:
         height: auto
@@ -37,7 +38,20 @@ sections:
         flexDirection: row-reverse
         textAlign: left
     type: HeroSection
-    actions: []
+    actions:
+      - type: Button
+        label: View Resume
+        url: /resume
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+      - type: Link
+        label: Contact Me
+        url: mailto:rbtgorman@gmail.com
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
@@ -51,9 +65,9 @@ sections:
     showReadMoreLink: true
     variant: variant-b
     projects:
+      - content/pages/projects/project-one.md
       - content/pages/projects/project-two.md
       - content/pages/projects/project-three.md
-      - content/pages/projects/project-one.md
     styles:
       self:
         height: auto
@@ -64,12 +78,12 @@ sections:
           - pl-4
           - pr-4
         textAlign: left
-    subtitle: Projects
+    subtitle: Featured Projects
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
     variant: variant-d
-    subtitle: Featured Posts
+    subtitle: Recent Posts
     showFeaturedImage: false
     actions:
       - type: Link
@@ -95,10 +109,10 @@ sections:
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
-    title: "Got an interesting project? Tell me more...\U0001F4AC"
+    title: "Interested in working together? Let's connect 🚀"
     form:
       type: FormBlock
-      elementId: sign-up-form
+      elementId: contact-form
       fields:
         - name: firstName
           label: First Name
@@ -119,21 +133,16 @@ sections:
           hideLabel: true
           placeholder: Email
           isRequired: true
-          width: 1/2
-          type: EmailFormControl
-        - name: address
-          label: Address
-          hideLabel: true
-          placeholder: Address
-          isRequired: true
-          width: 1/2
-          type: TextFormControl
-        - name: updatesConsent
-          label: Sign me up to recieve updates
-          isRequired: false
           width: full
-          type: CheckboxFormControl
-      submitLabel: "Submit \U0001F680"
+          type: EmailFormControl
+        - name: message
+          label: Message
+          hideLabel: true
+          placeholder: Your message
+          isRequired: true
+          width: full
+          type: TextareaFormControl
+      submitLabel: "Send Message ✉️"
       styles:
         self:
           textAlign: center
