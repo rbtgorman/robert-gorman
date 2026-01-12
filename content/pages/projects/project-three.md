@@ -1,29 +1,139 @@
 ---
 type: ProjectLayout
-title: One more cool project
+title: European Football Performance Dashboard
 colors: colors-a
-date: '2022-01-22'
-client: Awesome client
+date: '2024-03-10'
+client: Data Visualization Project
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably because I worked with an entire team :) but they definitely followed my lead most of the time.
+  Interactive analytics dashboards built in both Tableau and R-Shiny, analyzing longitudinal performance data across European football leagues. Applied statistical methods and time-series analysis to identify competitive patterns over a 10-year period.
 featuredImage:
   type: ImageBlock
-  url: /images/bg3.jpg
-  altText: Project thumbnail image
+  url: /images/project-football.jpg
+  altText: European Football Performance Dashboard
 media:
   type: ImageBlock
-  url: /images/bg3.jpg
-  altText: Project image
+  url: /images/project-football.jpg
+  altText: Interactive performance analytics dashboard
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+## Project Overview
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+Developed dual interactive dashboards using industry-leading BI tools to analyze and visualize European football team performance metrics. This project demonstrates proficiency in both modern web-based visualization (R-Shiny) and enterprise business intelligence platforms (Tableau).
 
-> “Everybody should learn to program a computer, because it teaches you how to think.”
+### Key Technologies
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+- **Tableau**: Enterprise business intelligence visualization
+- **R-Shiny**: Interactive web application framework
+- **R**: Statistical computing and data analysis
+- **Statistical Analysis**: Time-series analysis, trend identification
+- **Data Visualization**: Multi-dimensional performance metrics
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
+## Dashboard Features
 
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
+### Tableau Implementation
+
+**Interactive Elements**
+- Dynamic filtering by league, season, and team
+- Drill-down capabilities for detailed analysis
+- Real-time performance metric calculations
+- Comparative visualizations across multiple dimensions
+
+**Visualizations**
+- Performance trend lines over 10-year period
+- Team comparison matrices
+- League standings evolution
+- Statistical distribution charts
+- Heat maps for performance intensity
+
+### R-Shiny Application
+
+**Web-Based Interface**
+- Responsive design for multiple devices
+- User-friendly controls and filters
+- Real-time data updates
+- Exportable reports and visualizations
+
+**Advanced Analytics**
+- Elo rating calculations and tracking
+- Statistical significance testing
+- Predictive performance indicators
+- Custom metric development
+
+## Technical Implementation
+
+### Data Processing
+
+**Data Collection & Preparation**
+- Aggregated historical performance data from multiple sources
+- Data cleaning and standardization across leagues
+- Creation of derived metrics and KPIs
+- Time-series data structuring for longitudinal analysis
+
+**Statistical Analysis**
+- Trend analysis across multiple variables
+- Correlation analysis between performance factors
+- Seasonal pattern identification
+- Performance trajectory modeling
+
+### Visualization Design
+
+**User Experience**
+- Intuitive navigation and information hierarchy
+- Color-coded performance indicators
+- Tooltips and contextual information
+- Responsive layout optimization
+
+**Data Storytelling**
+- Clear narrative through visual progression
+- Comparative insights highlighted
+- Key findings prominently featured
+- Context provided for all metrics
+
+## Key Insights Delivered
+
+### Performance Trends
+- Identified long-term competitive patterns
+- League parity evolution over time
+- Team dominance cycles
+- Performance volatility indicators
+
+### Statistical Patterns
+- Correlation between various performance metrics
+- Home vs. away performance differentials
+- Seasonal consistency patterns
+- Competitive balance analysis
+
+## Technical Highlights
+
+- **Dual Platform Expertise**: Demonstrated proficiency in both Tableau and R-Shiny
+- **Complex Data Handling**: Managed 10 years of multi-dimensional performance data
+- **Statistical Rigor**: Applied appropriate analytical methods for time-series data
+- **Professional Presentation**: Created publication-ready visualizations
+
+## Skills Demonstrated
+
+- Business Intelligence (Tableau)
+- Web application development (R-Shiny)
+- Statistical analysis and hypothesis testing
+- Time-series data analysis
+- Data visualization best practices
+- Dashboard design and UX principles
+- R programming and data manipulation
+
+## Applications to Healthcare Analytics
+
+The skills demonstrated in this project directly translate to healthcare environments:
+
+- **Patient outcome tracking** over time
+- **Clinical trial data visualization**
+- **Healthcare quality metrics** dashboards
+- **Population health analytics**
+- **Operational performance** monitoring
+
+## GitHub Repository
+
+[View Project on GitHub](https://github.com/rbtgorman/elo_ratings_tableau)
+
+---
+
+*This project showcases my ability to create professional, interactive analytics dashboards that transform complex longitudinal data into actionable insights—a critical skill for healthcare data visualization and reporting.*
