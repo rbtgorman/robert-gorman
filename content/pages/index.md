@@ -41,7 +41,7 @@ sections:
     actions:
       - type: Button
         label: View Resume
-        url: /public/Robert-Gorman-Resume.pdf
+        url: /Robert-Gorman-Resume.pdf
         showIcon: false
         icon: arrowRight
         iconPosition: right
