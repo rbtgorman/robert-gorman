@@ -69,6 +69,11 @@
             },
             {
                 "type": "Link",
+                "label": "Resume",
+                "url": "/Robert_Gorman_Resume.pdf"
+            },
+            {
+                "type": "Link",
                 "label": "GitHub",
                 "url": "https://github.com/rbtgorman",
                 "altText": "Robert Gorman GitHub"
