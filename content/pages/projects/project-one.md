@@ -8,11 +8,11 @@ description: >-
   Large-scale data analysis project processing 10,000+ record datasets using Python, Pandas, and Scikit-learn. Applied statistical methods and machine learning algorithms including decision trees, logistic regression, and ensemble methods.
 featuredImage:
   type: ImageBlock
-  url: /images/project-bigdata.jpg
+  url: /images/bda-final-pic.png
   altText: Big Data Analytics Project
 media:
   type: ImageBlock
-  url: /images/project-bigdata.jpg
+  url: /images/bda-final-pic.png
   altText: Data analysis visualization
 ---
 
