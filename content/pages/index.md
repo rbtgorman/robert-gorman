@@ -14,8 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      Data Analyst & System Administrator transforming complex datasets into 
-      actionable insights and building reliable infrastructure.
+      IT Professional seeeking a transition to Data Programming Analytics. My interests include sports and home  automation.
     subtitle: >-
       AWS Certified Cloud Practitioner with M.S. in Business Analytics and 5+ years 
       supporting 7,000+ users in enterprise environments. Skilled in Python, SQL, 
