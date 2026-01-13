@@ -17,7 +17,7 @@ sections:
       ## About Me
 
 
-      I'm Robert Gorman, a data analyst and system administrator with a passion for transforming complex data into actionable insights and building reliable infrastructure that empowers users. With over 5 years of experience supporting 7,000+ users in an academic research environment, I bring a unique combination of technical expertise and business analytics acumen.
+      I'm Robert Gorman, I am an M.S. Business Analytics graduate with a passion for transforming complex data into actionable insights and building reliable infrastructure that empowers users. With over 5 years of experience supporting 7,000+ users in an academic research environment, I bring a unique combination of technical expertise and business analytics acumen.
 
 
       ### Professional Background
@@ -56,7 +56,7 @@ sections:
 
       - **AWS Certified Cloud Practitioner** - Amazon Web Services
 
-      - Currently pursuing additional cloud and data analytics certifications
+      - Currently pursuing the AWS Data Engineer certification
 
 
       ### What I'm Looking For
@@ -152,22 +152,20 @@ sections:
 
       **Open to**: Remote opportunities, hybrid roles, on-site positions in the greater Philadelphia region  
 
-      **Work Authorization**: U.S. Citizen | Dual U.S.-Italy Citizenship
+      **Work Authorization**: U.S. Citizen | Dual U.S.-Italy Citizenship (In Progress)
 
 
       ### Interests & Personal
 
 
-      When I'm not working with data or servers, you'll find me:
+      When I'm home or not at work, you'll find me:
 
 
-      - 📊 Following Philadelphia sports (Eagles, Flyers, Sixers, Phillies, Union)
+      - Following Philadelphia sports (Eagles, Flyers, Sixers, Phillies, Union)
 
-      - 🏈 Managing fantasy football and hockey leagues
+      - Utilizing Home Automation with tools like Home Assistant and Google Platforms
 
-      - 🏠 Tinkering with home automation projects
-
-      - 📈 Analyzing sports statistics and building predictive models
+      - Analyzing sports statistics and building predictive models for predictive markets
 
 
       ### Let's Connect
