@@ -8,11 +8,11 @@ description: >-
   Interactive analytics dashboards built in both Tableau and R-Shiny, analyzing longitudinal performance data across European football leagues. Applied statistical methods and time-series analysis to identify competitive patterns over a 10-year period.
 featuredImage:
   type: ImageBlock
-  url: /images/project-football.jpg
+  url: /images/elo-dash.png
   altText: European Football Performance Dashboard
 media:
   type: ImageBlock
-  url: /images/project-football.jpg
+  url: /images/elo-dash.png
   altText: Interactive performance analytics dashboard
 ---
 
