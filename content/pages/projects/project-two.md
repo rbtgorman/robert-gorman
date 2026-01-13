@@ -8,11 +8,11 @@ description: >-
   End-to-end machine learning application analyzing 10,000+ customer transactions to identify spending patterns and predict customer churn. Built complete ETL pipelines and predictive models using Python, Pandas, and advanced ML algorithms.
 featuredImage:
   type: ImageBlock
-  url: /images/project-churn.jpg
+  url: /images/group_project_ML.png
   altText: Customer Churn Prediction Platform
 media:
   type: ImageBlock
-  url: /images/project-churn.jpg
+  url: /images/group_project_ML.png
   altText: Machine learning analytics dashboard
 ---
 
